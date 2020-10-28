@@ -1,7 +1,7 @@
 # redux-flow-manager
 Flow Manager help you to manage flow information details and steps ( such what is the next step in the flow )
 <br/>
-for complicated website relay onf lows such a eCommerce, buy flow etc ..
+for complicated website relay on flows such a eCommerce, buy flow etc ..
 <br/>
 Flow Manger using [XState](https://github.com/davidkpiano/xstate) for state machine to calculate where are you currently in the flow and where you need to go.
 
